@@ -1,0 +1,9 @@
+Guangyang Chen
+gchen34@ucsc.edu
+Lab5
+-README: Category
+-Makefile: Make file
+-Dictionary.c: Implementation file for Dictionary ADT
+-DictionaryTest.c: self test
+-Dictionary.h: Header file for the Dictionary ADT
+-DictionaryClient.c: Test Client for the Dictionary ADT

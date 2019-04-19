@@ -1,0 +1,9 @@
+gchen34@ucsc.edu
+Lab 6
+-List.java: Illustrates Java Generics
+-ListInterface.java: Interface for the ADT
+-ListIndexOutOfBoundsException.java: Exception
+-ListClient.java: A Test Client for the ADT
+-ListTest.java: A Test for the ADT
+-README: category
+-Makefile: Make The File

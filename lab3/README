@@ -1,0 +1,5 @@
+Guangyang Chen, gchen34@ucsc.edu, 1518931
+Lab3
+-README: Category
+-Makefile: Make File
+-FileReverse.c: Reads input file, then reverses and prints each word on a separate line of the output file.

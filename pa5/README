@@ -1,0 +1,9 @@
+Guangyang Chen
+gchen34@ucsc.edu
+PA5
+-Dictionary.c:Dictionary ADT and inner Node class
+-Dictionary.h:Header file for the Dictionary ADT
+-DictionaryTest.c:Test for the Dictionary ADT 
+-DictionaryClient.c:Test client for the Dictionary ADT 
+-Makefile:Make the file
+-README:Category

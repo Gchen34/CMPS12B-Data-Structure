@@ -1,0 +1,5 @@
+Guangyang Chen gchen34@ucsc.edu
+Lab4
+-charType.c: reads the input from a file and classifies the type of characters, then prints the characters in specific catagory
+-README: category of this submission
+-Makefile: makes the file

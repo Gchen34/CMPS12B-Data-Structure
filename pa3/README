@@ -1,0 +1,8 @@
+Guangyang Chen gchen34@ucsc.edu
+Pa3 Dictionary ADT
+-Dictionary.java: a linked list implementation of java. It contains 7 functions that enable ADT operations: isEmpty(), size(), lookup(String key), insert(String key, String value), delete(String key), makeEmpty(), toString().
+-DictionaryTest.java: my test for all functions to check whether it works.
+-DuplicateKeyException.java: throws an expection if duplicate keys are inserted.
+-KeyNotFoundException.java: throws an expection if trying to delete a non-existent key.
+-DictionaryInterface.java: interface for the Dictionary ADT.
+-DictionaryClient.java: Client module for testing Dictionary ADT.
